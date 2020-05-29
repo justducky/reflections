@@ -1,0 +1,11 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+R: It build the .git directory and creates the initial copies of files git
+needs.
+
+Q: How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+R: The staging area only contains files you want to commit to the repository.
+It offers one a way to customize the set of files to commit rather than just
+commit all the files in the working directory.
