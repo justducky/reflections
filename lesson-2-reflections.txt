@@ -9,3 +9,8 @@ repository? What value do you think it offers?
 R: The staging area only contains files you want to commit to the repository.
 It offers one a way to customize the set of files to commit rather than just
 commit all the files in the working directory.
+
+Q: How can you use the staging area to make sure you have one commit per
+logical change?
+
+R: By only staging the files related to the logical change.
